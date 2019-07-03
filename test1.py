@@ -1,2 +1,3 @@
 import pygame
- class Ball(pygame.Sprite)
+ class Ball(pygame.Sprite)：
+       pygame.init()
